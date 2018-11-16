@@ -1,6 +1,6 @@
 {
   "name": "merginator-gitlab",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Merge Gitlab MR the quick way",
   "main": "src/index.js",
   "bin": {
